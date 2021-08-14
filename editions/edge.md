@@ -212,8 +212,6 @@ These mods causes the bugs or any issues and awaiting the issue to be fixed. We 
 
 None.
 
-Known issues? Please report them on comment section so we can add problematic mods to the list.
-
 ### Warning ###
 - Do not download mods on illegal reposting website such as 9minecraft, instead we recommended you downloading from their official release website such as CurseForge.
 - EndlessMod Edge and EndlessMod Libre modpacks are unsupported each other, so do not try to install both modpacks in a same directory! It will cause a serious conflict issue. (We recommend you to make seperated folder to install the modpack, you've been warned)
