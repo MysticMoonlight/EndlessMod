@@ -58,6 +58,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
 * [DeLogger](https://www.curseforge.com/minecraft/mc-mods/delogger)
 * [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
+* [Dynamic Surroundings](https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings)
 * [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful)
 * [Enchant With Mob](https://www.curseforge.com/minecraft/mc-mods/enchant-with-mob)✨
 * [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)✨
@@ -155,6 +156,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [RFTools Storage](https://www.curseforge.com/minecraft/mc-mods/rftools-storage)
 * [RFTools Utility](https://www.curseforge.com/minecraft/mc-mods/rftools-utility)
 * [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
+* [RPG-Hud [Forge]](https://www.curseforge.com/minecraft/mc-mods/rpg-hud/)
 * [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic)
 * [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
 * [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
