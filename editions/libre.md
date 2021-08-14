@@ -2,7 +2,7 @@
 EndlessMod is a Minecraft modpack which aims to keep the vanilla atmosphere experience with endless possibilities.
 This modpack is based on Fabric.
 
-Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead.
+Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the modpack manually.
 
 Warning: do not download mods on illegal reposting website such as 9minecraft, instead I recommended you downloading from their official release website such as CurseForge.
 
