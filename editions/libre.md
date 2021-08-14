@@ -1,7 +1,7 @@
 # EndlessMod Libre #
 ### What is it? ###
 EndlessMod is a Minecraft: Java Edition modpack which aims to keep the vanilla atmosphere experience with endless possibilities.
-This modpack is Libre Edition, which is long-term support version with Fabric based modpack.
+This modpack is Libre Edition, which always have latest version of Fabric.
 
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
@@ -9,7 +9,6 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 Last Updated: August 14, 2021
 * Renamed modpack name to 'EndlessMod'
 * Seperated EndlessMod into 2 editions: Edge(Forge-Based) and Libre(Fabric-based)
-* Edge will have latest Forge version (Update will delay if most mods does not support newer version) to comply with their [support policy](https://forums.minecraftforge.net/topic/91712-supported-version-directory/), Libre version upgrades for each every 2 major updates(e.g. 1.16 -> 1.18 -> 1.20)
 
 ### Version Info ###
 - Fabric Version: 0.11.6
