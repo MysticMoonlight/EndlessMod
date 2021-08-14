@@ -5,22 +5,22 @@ This modpack is Libre Edition, which is long-term support version with Fabric ba
 
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
-## Recent Changes ##
+### Recent Changes ###
 Last Updated: August 14, 2021
 * Renamed modpack name to 'EndlessMod'
 * Seperated EndlessMod into 2 editions: Edge(Forge-Based) and Libre(Fabric-based)
-* Edge always have latest Forge version due to their [support policy](https://forums.minecraftforge.net/topic/91712-supported-version-directory/), Libre version upgrades for each every 2 major updates(e.g. 1.16 -> 1.18 -> 1.20)
+* Edge always have latest Forge version to comply with their [support policy](https://forums.minecraftforge.net/topic/91712-supported-version-directory/), Libre version upgrades for each every 2 major updates(e.g. 1.16 -> 1.18 -> 1.20)
 
-## Version Info ##
+### Version Info ###
 - Fabric Version: 0.11.6
 - Minecraft Version: 1.16.5
 
-## List of Mods ##
+### List of Mods ###
 Currently, there aren't many mods that supports Fabric at the moment, so it is marked as Incomplete. If several mod developers decide to support Fabric, we will add them to the list.
 
 Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge.com/minecraft/mc-mods/cursemods) to download mods quickly.
 
-### Required Mods ###
+#### Required Mods ####
 * [Amecs (Fabric)](https://www.curseforge.com/minecraft/mc-mods/amecs)
 * [ArchitecturyAPI](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 * [Bamboo Tweaks: Fabric](https://www.curseforge.com/minecraft/mc-mods/bamboo-tweaks-fabric)
@@ -94,12 +94,12 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
 * [YUNG's Better Caves (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-caves-fabric)
 
-### Optional Mods ###
+#### Optional Mods ####
 This is optional, but if you have great pc performance, try it!
 
 [Iris Shaders](https://irisshaders.net/)
 
-## Required Data Packs ##
+### Required Data Packs ###
 As of May 28, 2020 Update, some of functionality has been replaced with Data Packs and some mods are marked as obsolete. You need to enable these Data Packs for better experience with this modpack.
 * [Vanilla Tweak Crafting Tweaks - True Vanilla Modpack Edition](https://vanillatweaks.net/share#ZR7Trg)
 * [Faster Leaf Decay](https://www.planetminecraft.com/data-pack/faster-leaf-decay/)
@@ -109,19 +109,19 @@ As of May 28, 2020 Update, some of functionality has been replaced with Data Pac
 * [Villager Improvement](https://www.youtube.com/watch?v=6iOigqyJKts)
 * [Graves](https://miroware.io/minecraft/datapacks/)
 
-## Recommended Resource/Shader Pack (Optional) ##
+### Recommended Resource/Shader Pack (Optional) ###
 These resource/shader packs are optional, but we recommend installing these packs.
 * [Vanilla Tweak Resource Pack - True Vanilla Modpack Edition](https://vanillatweaks.net/share#KF7QsK)
 * [BSL Shaders](http://bitslablab.com/bslshaders/) - Warning: Use this only when if your PC performance is good, this is not for potato PCs. Requires Iris shader mod
 
-## Problematic Mod(s) ##
+### Problematic Mod(s) ###
 These mods causes the bugs or any issues and awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
 
 None.
 
 Known issues? Please report them on comment section so we can add problematic mods to the list.
 
-## Warning ##
+### Warning ###
 - Do not download mods on illegal reposting website such as 9minecraft, instead we recommended you downloading from their official release website such as CurseForge.
 - EndlessMod Edge and EndlessMod Libre modpacks are unsupported each other, so do not try to install both modpacks in a same directory! It will cause a serious conflict issue. (We recommend you to make seperated folder to install the modpack, you've been warned)
 - We are not responsible for any crashes or glitches while playing with these modpack. If you found any issue, report to mod author. You are free to use discussion for making new mod suggestion!
