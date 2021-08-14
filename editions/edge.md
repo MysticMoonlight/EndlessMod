@@ -31,6 +31,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Backpacked](https://mrcrayfish.com/mods?id=backpacked)
 * [Backpacker](https://mrcrayfish.com/mods?id=backpacker)
 * [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+* [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 * [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)✨
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
 * [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
@@ -59,6 +60,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [DeLogger](https://www.curseforge.com/minecraft/mc-mods/delogger)
 * [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
 * [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful)
+* [Enchant With Mob](https://www.curseforge.com/minecraft/mc-mods/enchant-with-mob)✨
 * [Enchantment Descriptions](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)✨
 * [Ender Storage 1.8.+](https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8)
 * [Ensorcellation](https://www.curseforge.com/minecraft/mc-mods/ensorcellation)
@@ -79,6 +81,8 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 * [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
 * [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)
+* [Guard Villagers](https://www.curseforge.com/minecraft/mc-mods/guard-villagers)✨
+* [Hunter Illager](https://www.curseforge.com/minecraft/mc-mods/hunterillager)✨
 * [Ice Ice Baby](https://www.curseforge.com/minecraft/mc-mods/ice-ice-baby)
 * [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 * [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
@@ -133,10 +137,12 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Portality](https://www.curseforge.com/minecraft/mc-mods/portality)
 * [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah)
 * [Pretty Pipes](https://www.curseforge.com/minecraft/mc-mods/pretty-pipes)
+* [Progressive Bosses](https://www.curseforge.com/minecraft/mc-mods/progressive-bosses)
 * [Psi](https://www.curseforge.com/minecraft/mc-mods/psi)
 * [QuantumStorage](https://www.curseforge.com/minecraft/mc-mods/quantumstorage)
 * [Quartz Chests](https://www.curseforge.com/minecraft/mc-mods/quartz-chests)
 * [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps)
+* [ReAuth](https://www.curseforge.com/minecraft/mc-mods/reauth)
 * [RecipeBuffers](https://www.curseforge.com/minecraft/mc-mods/recipebuffers)
 * [Refined Pipes](https://www.curseforge.com/minecraft/mc-mods/refined-pipes)
 * [Refined Storage: Requestify](https://www.curseforge.com/minecraft/mc-mods/rs-requestify)
@@ -152,6 +158,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Rhino](https://www.curseforge.com/minecraft/mc-mods/rhino)
 * [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic)
 * [ServerConfig Updater](https://www.curseforge.com/minecraft/mc-mods/serverconfig-updater)
+* [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 * [Shrink.](https://www.curseforge.com/minecraft/mc-mods/shrink_)
 * [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 * [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets)✨
