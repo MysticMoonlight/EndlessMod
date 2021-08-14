@@ -12,7 +12,7 @@ Last Updated: August 14, 2021
 * Edge always have latest Forge version to comply with their [support policy](https://forums.minecraftforge.net/topic/91712-supported-version-directory/), Libre version upgrades for each every 2 major updates(e.g. 1.16 -> 1.18 -> 1.20)
 
 ### Version Info ###
-- Forge Version: 37.0.33
+- Forge Version: 36.2.2(Latest) or 36.2.0(Stable)
 - Minecraft Version: 1.16.5
 
 ### List of Mods ###
@@ -187,7 +187,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Xaero's Minimap (Forge)](https://chocolateminecraft.com/minimap2.php)✨
 * [Xnet](https://www.curseforge.com/minecraft/mc-mods/xnet)
 * [Xnet Gases](https://www.curseforge.com/minecraft/mc-mods/xnet-gases)
-* [ZeroCore]
+* [ZeroCore](https://www.curseforge.com/minecraft/mc-mods/zerocore)
 
 
 #### Optional Mods ####
@@ -197,13 +197,13 @@ This is optional, but if you have great pc performance, try it!
 
 ### Required Data Packs ###
 As of May 28, 2020 Update, some of functionality has been replaced with Data Packs and some mods are marked as obsolete. You need to enable these Data Packs for better experience with this modpack.
-* [Vanilla Tweak Crafting Tweaks - True Vanilla Modpack Edition](https://vanillatweaks.net/share#ZR7Trg)
-* [Faster Leaf Decay](https://www.planetminecraft.com/data-pack/faster-leaf-decay/)
 * [Better Recipes](https://www.planetminecraft.com/data-pack/better-recipes-5100229/)
-* [TreeCapitator](https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/)
 * [Blazeandcave's Advancements Pack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
 * [Villager Improvement](https://www.youtube.com/watch?v=6iOigqyJKts)
-* [Graves](https://miroware.io/minecraft/datapacks/)
+
+### Bonus! Recommended Resource Pack ###
+This is optional, but recommended using with this resource pack:
+- [New Default+](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
 
 ### Problematic Mod(s) ###
 These mods causes the bugs or any issues and awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
