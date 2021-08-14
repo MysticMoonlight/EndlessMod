@@ -30,6 +30,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Backpacked](https://mrcrayfish.com/mods?id=backpacked)
 * [Backpacker](https://mrcrayfish.com/mods?id=backpacker)
 * [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
+* [Blur](https://www.curseforge.com/minecraft/mc-mods/blur/files)
 * [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 * [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf)✨
 * [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
