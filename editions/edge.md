@@ -124,6 +124,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators)
 * [MrCrayFish's Gun Mod](https://mrcrayfish.com/mods?id=cgm)
 * [MrCrayFish's Furniture Mod](https://mrcrayfish.com/mods?id=cfm)✨
+* [MrCrayFish's More Furniture Mod](https://mrcrayfish.com/mods?id=morecfm)
 * [MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)
 * [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
 * [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass)
