@@ -202,7 +202,9 @@ This is optional, but if you have great pc performance, try it!
 
 ### Required Data Packs ###
 As of May 28, 2020 Update, some of functionality has been replaced with Data Packs and some mods are marked as obsolete. You need to enable these Data Packs for better experience with this modpack.
+* [Faster Leaf Decay](https://www.planetminecraft.com/data-pack/faster-leaf-decay/)
 * [Better Recipes](https://www.planetminecraft.com/data-pack/better-recipes-5100229/)
+* [TreeCapitator](https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/)
 * [Blazeandcave's Advancements Pack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
 * [Villager Improvement](https://www.youtube.com/watch?v=6iOigqyJKts)
 
