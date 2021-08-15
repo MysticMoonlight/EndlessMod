@@ -187,10 +187,10 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Toast Control](https://www.curseforge.com/minecraft/mc-mods/toast-control)
 * [Trash Cans](https://www.curseforge.com/minecraft/mc-mods/trash-cans)
 * [ValkyrieLib](https://www.curseforge.com/minecraft/mc-mods/valkyrielib)
+* [VoxelMap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)✨
 * [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones)
 * [Woot](https://www.curseforge.com/minecraft/mc-mods/woot)
 * [Wormhole](https://www.curseforge.com/minecraft/mc-mods/wormhole-portals)
-* [Xaero's Minimap (Forge)](https://chocolateminecraft.com/minimap2.php)✨
 * [Xnet](https://www.curseforge.com/minecraft/mc-mods/xnet)
 * [Xnet Gases](https://www.curseforge.com/minecraft/mc-mods/xnet-gases)
 * [ZeroCore](https://www.curseforge.com/minecraft/mc-mods/zerocore)
