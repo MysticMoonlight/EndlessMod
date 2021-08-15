@@ -71,6 +71,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
 * [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 * [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
+* [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
 * [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 * [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
@@ -168,6 +169,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Simple Magnets](https://www.curseforge.com/minecraft/mc-mods/simple-magnets)✨
 * [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2)
 * [[Forge] Snad](https://www.curseforge.com/minecraft/mc-mods/forge-snad)
+* [Snow Under Trees](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees)✨
 * [Spawner Bug Fix](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
 * [Statues](https://www.curseforge.com/minecraft/mc-mods/statues)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
@@ -200,9 +202,7 @@ This is optional, but if you have great pc performance, try it!
 
 ### Required Data Packs ###
 As of May 28, 2020 Update, some of functionality has been replaced with Data Packs and some mods are marked as obsolete. You need to enable these Data Packs for better experience with this modpack.
-* [Faster Leaf Decay](https://www.planetminecraft.com/data-pack/faster-leaf-decay/)
 * [Better Recipes](https://www.planetminecraft.com/data-pack/better-recipes-5100229/)
-* [TreeCapitator](https://www.planetminecraft.com/data-pack/treecapitator-datapack-1-13/)
 * [Blazeandcave's Advancements Pack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
 * [Villager Improvement](https://www.youtube.com/watch?v=6iOigqyJKts)
 
