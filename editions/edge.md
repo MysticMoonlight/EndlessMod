@@ -71,7 +71,8 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Environmental Tech](https://www.curseforge.com/minecraft/mc-mods/environmental-tech)
 * [ExtraStorage](https://www.curseforge.com/minecraft/mc-mods/extrastorage)
 * [Extreme Reactors](https://www.curseforge.com/minecraft/mc-mods/extreme-reactors)
-* [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
+* [Falling Leaves Forge](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge)
+* [Falling Tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)✨
 * [FastFurnace](https://www.curseforge.com/minecraft/mc-mods/fastfurnace)
 * [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench)
 * [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore)
