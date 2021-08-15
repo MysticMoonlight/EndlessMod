@@ -95,6 +95,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
 * [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
 * [Integrated NBT](https://www.curseforge.com/minecraft/mc-mods/integrated-nbt)
+* [Inventory Tweaks Renewed](https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks-renewed)
 * [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests)
 * [Item Collectors](https://www.curseforge.com/minecraft/mc-mods/item-collectors)
 * [Just Another Void Dimention](https://www.curseforge.com/minecraft/mc-mods/just-another-void-dimension)
