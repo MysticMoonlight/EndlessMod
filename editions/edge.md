@@ -78,6 +78,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [FindMe](https://www.curseforge.com/minecraft/mc-mods/findme)
 * [Flat Bedrock](https://www.curseforge.com/minecraft/mc-mods/flat-bedrock)
 * [Flux Networks](https://www.curseforge.com/minecraft/mc-mods/flux-networks)
+* [Flywheel](https://www.curseforge.com/minecraft/mc-mods/flywheel)
 * [Gauges and Switches](https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches)
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 * [Glassential](https://www.curseforge.com/minecraft/mc-mods/glassential)
@@ -88,6 +89,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
 * [Immersive Posts](https://www.curseforge.com/minecraft/mc-mods/immersiveposts)
 * [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing)
+* [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib)
 * [Integrated Crafting](https://www.curseforge.com/minecraft/mc-mods/integrated-crafting)
 * [Integrated Dynamics](https://www.curseforge.com/minecraft/mc-mods/integrated-dynamics)
 * [Integrated Terminals](https://www.curseforge.com/minecraft/mc-mods/integrated-terminals)
@@ -217,3 +219,4 @@ None.
 - Do not download mods on illegal reposting website such as 9minecraft, instead we recommended you downloading from their official release website such as CurseForge.
 - EndlessMod Edge and EndlessMod Libre modpacks are unsupported each other, so do not try to install both modpacks in a same directory! It will cause a serious conflict issue. (We recommend you to make seperated folder to install the modpack, you've been warned)
 - We are not responsible for any crashes or glitches while playing with these modpack. If you found any issue, report to mod author. You are free to use discussion for making new mod suggestion!
+- Beware when installing mods, sometimes there is Forge and Fabric mixed in the file list of mod page
