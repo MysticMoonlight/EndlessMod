@@ -9,7 +9,7 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 Last Updated: August 16, 2021
 - Added [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 - Added [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
-- Added back the [Structizer](https://www.curseforge.com/minecraft/mc-mods/structurize)
+- Added back the [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 
 ### Version Info ###
 - Forge Version: 36.2.2(Latest) or 36.2.0(Stable)
