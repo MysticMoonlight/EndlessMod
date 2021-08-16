@@ -6,9 +6,9 @@ This modpack is Edge Edition, which is based on LTS version of Forge to comply w
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
-Last Updated: August 14, 2021
-* Renamed modpack name to 'EndlessMod'
-* Seperated EndlessMod into 2 editions: Edge(Forge-Based) and Libre(Fabric-based)
+Last Updated: August 16, 2021
+- Added [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
+- Added [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 
 ### Version Info ###
 - Forge Version: 36.2.2(Latest) or 36.2.0(Stable)
