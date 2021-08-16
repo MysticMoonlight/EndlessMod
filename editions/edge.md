@@ -9,6 +9,7 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 Last Updated: August 16, 2021
 - Added [FTB Library (Forge)](https://www.curseforge.com/minecraft/mc-mods/ftb-library-forge)
 - Added [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+- Added back the [Structizer](https://www.curseforge.com/minecraft/mc-mods/structurize)
 
 ### Version Info ###
 - Forge Version: 36.2.2(Latest) or 36.2.0(Stable)
@@ -175,6 +176,7 @@ Note: These list of mods are still untested - The list of mods are subject to ch
 * [Spawner Bug Fix](https://www.curseforge.com/minecraft/mc-mods/spawner-fix)
 * [Statues](https://www.curseforge.com/minecraft/mc-mods/statues)
 * [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
+* [Structizer](https://www.curseforge.com/minecraft/mc-mods/structurize)
 * [SuperMartijn642's Config Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib)
 * [SuperMartijn642's Core Lib](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib)
 * [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
