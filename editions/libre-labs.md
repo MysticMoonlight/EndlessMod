@@ -57,6 +57,8 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [First-person Model (Fabric)](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
 * [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/flytrelib)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
+* [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+* [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
 * [Horse Stats Vanilla (Fabric)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla)
 * [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 * [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
