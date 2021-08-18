@@ -11,10 +11,9 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 
 ### Recent Changes ###
 Last Updated: August 14, 2021
-* Added [FallingTree (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree), [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
+* Added [FallingTree (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree), [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric), [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib), [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
 * Removed inactive mod: Bamboo Tweaks: Fabric, Crimson Moon, Cull Particles, Damage Overhaul, Dynamic Sound Filters, Iron Jetpacks Fabric, RandomPatches (Fabric), Smooth Scrolling Everywhere (Fabric), RPG-HUD (Fabric), YUNG's Better Caves (Fabric)
-* Moved following mods to Problematic Mod(s)
-* Seperated EndlessMod into 2 editions: Edge(Forge-Based) and Libre(Fabric-based)
+* Added Incompatiable Mods section
 
 ### Version Info ###
 - Fabric Version: 0.11.6
