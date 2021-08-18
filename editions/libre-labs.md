@@ -11,8 +11,8 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 
 ### Recent Changes ###
 Last Updated: August 14, 2021
-* Added [FallingTree (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree), [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric), [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib), [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
-* Removed inactive mod: Bamboo Tweaks: Fabric, Crimson Moon, Cull Particles, Damage Overhaul, Dynamic Sound Filters, Iron Jetpacks Fabric, RandomPatches (Fabric), Smooth Scrolling Everywhere (Fabric), RPG-HUD (Fabric), YUNG's Better Caves (Fabric)
+* Added [FallingTree (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree), [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric), [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib), [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun), [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations), [Underground Ambient Lightning](https://www.curseforge.com/minecraft/mc-mods/undergroundambientlighting)
+* Removed inactive mod: Bamboo Tweaks: Fabric, Crimson Moon, Cull Particles, Damage Overhaul, Dynamic Sound Filters, Iron Jetpacks Fabric, MAmbience, RandomPatches (Fabric), Smooth Scrolling Everywhere (Fabric), RPG-HUD (Fabric), YUNG's Better Caves (Fabric)
 * Added Incompatiable Mods section
 
 ### Version Info ###
@@ -56,12 +56,12 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
 * [Horse Stats Vanilla (Fabric)](https://www.curseforge.com/minecraft/mc-mods/horsestatsvanilla)
+* [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
 * [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 * [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 * [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
 * [Lithium (Fabric)](https://www.curseforge.com/minecraft/mc-mods/lithium)
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
-* [MAmbience](https://www.curseforge.com/minecraft/mc-mods/mambience)
 * [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)
 * [More Death Messages](https://www.curseforge.com/minecraft/mc-mods/more-death-messages)
 * [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
@@ -81,6 +81,7 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
+* [Underground Ambient Lightning](https://www.curseforge.com/minecraft/mc-mods/undergroundambientlighting)
 * [VoxelMap (Fabric)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 * [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
 * [YUNG's API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
