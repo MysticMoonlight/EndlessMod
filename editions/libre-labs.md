@@ -125,6 +125,7 @@ These mods are incompatible at the moment, but they are working hard to get 1.17
 
 
 ### Warning ###
-- Do not download mods on illegal reposting website such as 9minecraft, instead we recommended you downloading from their official release website such as CurseForge.
+- Do not download mods on illegal mod redistribute website such as 9minecraft, instead we recommended you downloading from their official release website such as CurseForge.
 - EndlessMod Edge and EndlessMod Libre modpacks are unsupported each other, so do not try to install both modpacks in a same directory! It will cause a serious conflict issue. (We recommend you to make seperated folder to install the modpack, you've been warned)
 - We are not responsible for any crashes or glitches while playing with these modpack. If you found any issue, report to mod author. You are free to use discussion for making new mod suggestion!
+
