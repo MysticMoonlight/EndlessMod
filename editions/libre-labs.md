@@ -67,7 +67,6 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Mouse Wheelie (Fabric)](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie)
 * [NoExpensive](https://www.curseforge.com/minecraft/mc-mods/noexpensive)
 * [Not Enough Animations (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
-* [Orderly](https://www.curseforge.com/minecraft/mc-mods/orderly)
 * [Patchouli (Fabric)](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
