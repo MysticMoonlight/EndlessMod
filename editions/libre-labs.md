@@ -101,8 +101,9 @@ You need to enable these Data Packs for better experience with this modpack.
 
 ### Recommended Resource/Shader Pack (Optional) ###
 These resource/shader packs are optional, but we recommend installing these packs.
-* [Vanilla Tweak Resource Pack - True Vanilla Modpack Edition](https://vanillatweaks.net/share#KF7QsK)
-* [BSL Shaders](http://bitslablab.com/bslshaders/) - Warning: Use this only when if your PC performance is good, this is not for potato PCs. Requires Iris shader mod
+* [VanillaTweaks 1.17](https://vanillatweaks.net/share#nIYuHn)
+* [Fabulousity](https://github.com/ScottoMotto/Fabulousity) (Currently it is based on 1.16 but 1.17 works well) 
+* [BSL Shaders](http://bitslablab.com/bslshaders/) (Warning: Use this only when if your PC performance is good, this is not for potato PCs. Requires Iris shader mod)
 
 ### Problematic Mod(s)/ ###
 These mods causes the bugs or awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
