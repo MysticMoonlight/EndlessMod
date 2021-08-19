@@ -3,6 +3,8 @@
 EndlessMod is a Minecraft: Java Edition modpack which aims to keep the vanilla atmosphere experience with endless possibilities.
 This modpack is Libre Edition, which always have latest version of Fabric.
 
+EndlessMod Libre is being actively developed, unlike EndlessMod Edge.
+
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
