@@ -95,7 +95,7 @@ This is optional, but if you have great pc performance, try it!
 ### Required Data Packs ###
 You need to enable these Data Packs for better experience with this modpack.
 
-* [Better Recipes](https://www.planetminecraft.com/data-pack/better-recipes-5100229/)
+* [Vanilla Tweaks Crafting Tweaks](https://vanillatweaks.net/share#gmblxQ)
 * [Blazeandcave's Advancements Pack](https://www.planetminecraft.com/data-pack/blazeandcave-s-advancements-pack-1-12/)
 * [Graves](https://vanillatweaks.net/share#0cGCMO)
 
