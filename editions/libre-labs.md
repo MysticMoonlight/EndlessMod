@@ -11,7 +11,7 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 
 ### Recent Changes ###
 Last Updated: August 19, 2021
-* Added [Hydrogen](https://modrinth.com/mod/hydrogen), [Extra Sounds](https://modrinth.com/mod/extrasounds), [Indium](https://modrinth.com/mod/indium), [Dashloader](https://modrinth.com/mod/dashloader), [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes) [Fabrishot](https://modrinth.com/mod/fabrishot), [Krypton](https://modrinth.com/mod/krypton), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced), [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric), [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric), [Save My Stronghold! (Fabric)](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold-fabric)
+* Added [Hydrogen](https://modrinth.com/mod/hydrogen), [Extra Sounds](https://modrinth.com/mod/extrasounds), [Indium](https://modrinth.com/mod/indium), [Dashloader](https://modrinth.com/mod/dashloader), [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes) [Fabrishot](https://modrinth.com/mod/fabrishot), [Krypton](https://modrinth.com/mod/krypton), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced), [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric), [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 * Added the updater: [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) (Hopefully this will allow you to keep the mod up to date)
 * Brought Fabric-supported mod to list from Edge: [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic), [Snow Under Trees (Fabric)](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 * Added back the [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric)
@@ -92,7 +92,6 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Respawnable Pets](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 * [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic)
-* [Save My Stronghold! (Fabric)](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold-fabric)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
 * [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric) (It says 1.16, but 1.17 seems working fine; mod author confirmed that it supports 1.17)
 * [Snow Under Trees (Fabric)](https://modrinth.com/mod/snow-under-trees-fabric)
