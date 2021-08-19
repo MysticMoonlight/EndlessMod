@@ -10,10 +10,9 @@ The 1.17 stable release is expected to be released on September 2021.
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
-Last Updated: August 14, 2021
-* Added [FallingTree (Forge & Fabric)](https://www.curseforge.com/minecraft/mc-mods/falling-tree), [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric), [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib), [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun), [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations), [Underground Ambient Lightning](https://www.curseforge.com/minecraft/mc-mods/undergroundambientlighting)
-* Removed inactive mod: Bamboo Tweaks: Fabric, Crimson Moon, Cull Particles, Damage Overhaul, Dynamic Sound Filters, Iron Jetpacks Fabric, MAmbience, RandomPatches (Fabric), Smooth Scrolling Everywhere (Fabric), RPG-HUD (Fabric), YUNG's Better Caves (Fabric)
-* Added Incompatiable Mods section
+Last Updated: August 19, 2021
+* Brought Fabric-supported mod to list: [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic), [Snow Under Trees (Fabric)](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
+* Updated the list of Resource packs and Data packs
 
 ### Version Info ###
 - Fabric Version: 0.11.6
@@ -75,8 +74,10 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
 * [Respawnable Pets](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
+* [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
 * [Smooth Boot (Fabric)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
+* [Snow Under Trees (Fabric)](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 * [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
