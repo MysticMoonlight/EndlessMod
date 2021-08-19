@@ -1,6 +1,6 @@
 # ⚠ WARNING: THIS EDITION IS NO LONGER ACTIVELY SUPPORTED ⚠ #
 Since now most mods are being ported to Fabric instead of Forge, this edition will be no longer actively supported.
-If 1.18 Forge is released, this edition will reach EOL and no support will not be provided.
+If 1.18 Forge is released, this edition will reach EOL and no support will be provided.
 
 We recommend switching to EndlessMod Libre, which is actively maintained.
 
