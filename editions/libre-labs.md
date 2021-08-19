@@ -11,10 +11,11 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 
 ### Recent Changes ###
 Last Updated: August 19, 2021
-* Added [Hydrogen](https://modrinth.com/mod/hydrogen), [Extra Sounds](https://modrinth.com/mod/extrasounds), [Indium](https://modrinth.com/mod/indium), [Dashloader](https://modrinth.com/mod/dashloader), [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes) [Fabrishot](https://modrinth.com/mod/fabrishot), [Krypton](https://modrinth.com/mod/krypton), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced), [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric), [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
+* Added [Hydrogen](https://modrinth.com/mod/hydrogen), [Extra Sounds](https://modrinth.com/mod/extrasounds), [Indium](https://modrinth.com/mod/indium), [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes) [Fabrishot](https://modrinth.com/mod/fabrishot), [Krypton](https://modrinth.com/mod/krypton), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced), [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric), [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 * Added the updater: [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) (Hopefully this will allow you to keep the mod up to date)
 * Brought Fabric-supported mod to list from Edge: [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic), [Snow Under Trees (Fabric)](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 * Added back the [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric)
+* Removed following mods: Dashloader (Conflict issue), Not Enough Animations and First-person Model (Annoying and not really required)
 * Updated the list of Resource packs and Data packs
 * Link to mods are now replaced with Modrinth, if possible (Some mods did not been replaced with Modrinth due to outdated version)
 
@@ -43,7 +44,6 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)
 * [Damage Tint](https://modrinth.com/mod/damage-tint)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
-* [Dashloader](https://modrinth.com/mod/dashloader)
 * [Disable Custom Worlds Advice (Fabric)](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 * [Expanded Storage (Fabric)](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
@@ -59,7 +59,6 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 * [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 * [Fat Experience Orbs](https://www.curseforge.com/minecraft/mc-mods/fat-experience-orbs)
-* [First-person Model (Fabric)](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
 * [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/flytrelib)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
@@ -80,7 +79,6 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [More Death Messages](https://www.curseforge.com/minecraft/mc-mods/more-death-messages)
 * [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 * [NoExpensive](https://www.curseforge.com/minecraft/mc-mods/noexpensive)
-* [Not Enough Animations (Fabric)](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 * [Patchouli (Fabric)](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
 * [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
