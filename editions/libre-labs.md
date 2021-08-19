@@ -12,6 +12,7 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 ### Recent Changes ###
 Last Updated: August 19, 2021
 * Added [Hydrogen](https://modrinth.com/mod/hydrogen), [Extra Sounds](https://modrinth.com/mod/extrasounds), [Indium](https://modrinth.com/mod/indium), [Dashloader](https://modrinth.com/mod/dashloader), [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes) [Fabrishot](https://modrinth.com/mod/fabrishot), [Krypton](https://modrinth.com/mod/krypton), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced), [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric), [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric), [Save My Stronghold! (Fabric)](https://www.curseforge.com/minecraft/mc-mods/save-my-stronghold-fabric)
+* Added the updater: [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) (Hopefully this will allow you to keep the mod up to date)
 * Brought Fabric-supported mod to list from Edge: [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic), [Snow Under Trees (Fabric)](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
 * Added back the [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric)
 * Updated the list of Resource packs and Data packs
@@ -52,6 +53,7 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 * [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes)
+* [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [FallingTree](https://modrinth.com/mod/fallingtree)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
