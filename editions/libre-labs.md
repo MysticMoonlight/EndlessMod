@@ -10,7 +10,7 @@ The 1.17 stable release is expected to be released on September 2021.
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
-Latest version: 1.17-labs-rev3
+Latest version: 1.17.1-2.3-labs (Updated on August 20, 2021)
 
 **WARNING: The previous world will not be supported. You need to start new world due to major mod list changes.**
 
