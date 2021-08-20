@@ -23,10 +23,6 @@ Latest version: 1.17.1-libre-labs3 (Updated on August 20, 2021)
 - Minecraft Version: 1.17.1
 
 ### List of Mods ###
-Currently, there aren't many mods that supports Fabric at the moment, so it is marked as Incomplete. If several mod developers decide to support Fabric, we will add them to the list.
-
-Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge.com/minecraft/mc-mods/cursemods) to download mods quickly.
-
 #### Required Mods ####
 * [Amecs (Fabric)](https://www.curseforge.com/minecraft/mc-mods/amecs)
 * [ArchitecturyAPI](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
@@ -116,7 +112,6 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 #### Optional Mods ####
 These mods are optional mod.
 
-- [Updated HUD](https://modrinth.com/mod/updated-hud)
 - [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
 - [WorldTime](https://modrinth.com/mod/worldtime)
 - [Iris Shaders](https://irisshaders.net/)
@@ -138,16 +133,23 @@ These resource/shader packs are optional, but we recommend installing these pack
 ### Problematic Mod(s)/ ###
 These mods causes the bugs or awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
 
-None.
+- [Updated HUD](https://modrinth.com/mod/updated-hud) (Hunger bar breaks if used with another font, see [Issue #3](https://github.com/Camopass/UpdatedHUD/issues/3))
 
 ### Incompatiable Mods ###
 These mods are incompatible at the moment, but they are working hard to get 1.17 or 1.18 support.
 
-* [Orderly](https://www.curseforge.com/minecraft/mc-mods/orderly) - It does not support 1.17 yet, but authors are working hard to support 1.17. Do not use until 1.17 support is added
-* [Phosphor (Fabric)](https://modrinth.com/mod/phosphor) - It does not support 1.17 yet, but authors are working hard to support 1.17. Do not use until 1.17 support is added
+* [Orderly](https://www.curseforge.com/minecraft/mc-mods/orderly) - It does not support 1.17 yet, but mod developers are working hard to support 1.17. Do not use until 1.17 support is added
+* [Phosphor (Fabric)](https://modrinth.com/mod/phosphor) - It does not support 1.17 yet, but mod developers are working hard to support 1.17. Do not use until 1.17 support is added
 * [Cinderscapes](https://modrinth.com/mod/cinderscapes) - Developer mentioned that 1.17 release will be skipped, we recommend not using this mod until 1.18
 * [Terrestria](https://modrinth.com/mod/terrestria) - Developer mentioned that 1.17 release will be skipped, we recommend not using this mod until 1.18
 * [Traverse](https://modrinth.com/mod/traverse) - Developer mentioned that 1.17 release will be skipped, we recommend not using this mod until 1.18
+
+### How to keep mod up to date ###
+As of 1.17.1-libre-labs2 update, auto updater named Fabrilous Updater has been added. This will allow you to keep the mod up to date, which usually includes bug fixes and new features.
+
+Use following command to manage updates. Please note that Fabrilous Updater does not check for update automatically!
+/fabdate update - Shows a list of mods needing updates with a clickable download link.
+/fabdate autoupdate - Automatically removes old mods and downloads new mods.
 
 
 ### Warning ###
