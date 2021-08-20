@@ -14,7 +14,7 @@ Latest version: 1.17.1-libre-labs3 (Updated on August 20, 2021)
 
 **WARNING: The previous world will not be supported. You need to start new world due to major mod list changes.**
 
-* Added [Glow Banners](https://modrinth.com/mod/glow-banners), [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds), [Extra Enchants](https://modrinth.com/mod/extra_enchants). [No Cap](https://modrinth.com/mod/nocap), [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer), [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
+* Added [Glow Banners](https://modrinth.com/mod/glow-banners), [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds), [Extra Enchants](https://modrinth.com/mod/extra_enchants). [No Cap](https://modrinth.com/mod/nocap), [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer), [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric), [WTHIT](https://modrinth.com/mod/wthit)
 * Added optional mod: [Updated HUD](https://modrinth.com/mod/updated-hud), [Compass Ribbon](https://modrinth.com/mod/compass-ribbon), [WorldTime](https://modrinth.com/mod/worldtime)
 * Added [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization), replacing the Tech Reborn Mod
 
@@ -108,6 +108,7 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced)
 * [VoxelMap (Fabric)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 * [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
+* [WTHIT](https://modrinth.com/mod/wthit)
 * [YUNG's API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
 * [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
 * [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
