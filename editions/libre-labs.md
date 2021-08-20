@@ -10,14 +10,13 @@ The 1.17 stable release is expected to be released on September 2021.
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
-Last Updated: August 19, 2021
-* Added [Hydrogen](https://modrinth.com/mod/hydrogen), [Extra Sounds](https://modrinth.com/mod/extrasounds), [Indium](https://modrinth.com/mod/indium), [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes) [Fabrishot](https://modrinth.com/mod/fabrishot), [Krypton](https://modrinth.com/mod/krypton), [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass), [Sodium Extra](https://modrinth.com/mod/sodium-extra), [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced), [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric), [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
-* Added the updater: [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater) (Hopefully this will allow you to keep the mod up to date)
-* Brought Fabric-supported mod to list from Edge: [Runelic](https://www.curseforge.com/minecraft/mc-mods/runelic), [Snow Under Trees (Fabric)](https://www.curseforge.com/minecraft/mc-mods/snow-under-trees-fabric)
-* Added back the [ConnectedTexturesMod for Fabric](https://www.curseforge.com/minecraft/mc-mods/ctm-fabric)
-* Removed following mods: Dashloader (Conflict issue), Not Enough Animations and First-person Model (Annoying and not really required)
-* Updated the list of Resource packs and Data packs
-* Link to mods are now replaced with Modrinth, if possible (Some mods did not been replaced with Modrinth due to outdated version)
+Latest version: 1.17-labs-rev3
+
+**WARNING: The previous world will not be supported. You need to start new world due to major mod list changes.**
+
+* Added [Glow Banners](https://modrinth.com/mod/glow-banners), [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds), [Extra Enchants](https://modrinth.com/mod/extra_enchants). [No Cap](https://modrinth.com/mod/nocap), [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer), [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
+* Added optional mod: [https://modrinth.com/mod/updated-hud](Updated HUD), [https://modrinth.com/mod/compass-ribbon](Compass Ribbon), [WorldTime](https://modrinth.com/mod/worldtime)
+* Added [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization), replacing the Tech Reborn Mod
 
 ### Version Info ###
 - Fabric Version: 0.11.6
@@ -48,6 +47,7 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 * [Expanded Storage (Fabric)](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
 * [Extra Alchemy](https://www.curseforge.com/minecraft/mc-mods/extra-alchemy)
+* [Extra Enchants](https://modrinth.com/mod/extra_enchants)
 * [Extra Sounds](https://modrinth.com/mod/extrasounds)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Furnaces](https://www.curseforge.com/minecraft/mc-mods/fabric-furnaces)
@@ -55,6 +55,7 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes)
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
+* [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds)
 * [FallingTree](https://modrinth.com/mod/fallingtree)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 * [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
@@ -62,6 +63,7 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [FlytreLib](https://www.curseforge.com/minecraft/mc-mods/flytrelib)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+* [Glow Banners](https://modrinth.com/mod/glow-banners)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
 * [Horse Stats Vanilla (Fabric)](https://modrinth.com/mod/horsestatsvanilla)
 * [Hydrogen](https://modrinth.com/mod/hydrogen)
@@ -76,9 +78,11 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Lithium](https://modrinth.com/mod/lithium)
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
+* [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization)
 * [More Death Messages](https://www.curseforge.com/minecraft/mc-mods/more-death-messages)
 * [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 * [NoExpensive](https://www.curseforge.com/minecraft/mc-mods/noexpensive)
+* [No Cap](https://modrinth.com/mod/nocap)
 * [Patchouli (Fabric)](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
 * [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
@@ -95,6 +99,8 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [Snow Under Trees (Fabric)](https://modrinth.com/mod/snow-under-trees-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+* [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
+* [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
 * [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
@@ -107,9 +113,12 @@ Tired of installing Fabric Mods manually? Try [CurseMods](https://www.curseforge
 * [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
 
 #### Optional Mods ####
-This is optional, but if you have great pc performance, try it!
+These mods are optional mod.
 
-[Iris Shaders](https://irisshaders.net/)
+- [Updated HUD](https://modrinth.com/mod/updated-hud)
+- [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
+- [WorldTime](https://modrinth.com/mod/worldtime)
+- [Iris Shaders](https://irisshaders.net/)
 
 ### Required Data Packs ###
 You need to enable these Data Packs for better experience with this modpack.
