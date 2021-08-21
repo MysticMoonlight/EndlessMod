@@ -12,7 +12,7 @@ Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed inst
 ### Recent Changes ###
 Latest version: 1.17.1-libre-labs3_r5 (Updated on August 21, 2021)
 
-**WARNING: The previous world will not be supported. You need to start new world due to major mod list changes.**
+**WARNING: The previous world will not be supported which was existed before 1.17.1-libre-labs2. You need to start new world due to major mod list changes.**
 
 * Added [Textile Backup](https://modrinth.com/mod/textile_backup), allowing you to back up the world in case something goes wrong
 * Removed obsolete mod from list completely
