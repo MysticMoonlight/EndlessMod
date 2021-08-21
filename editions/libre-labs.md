@@ -15,6 +15,7 @@ Latest version: 1.17.1-libre-labs3_r5 (Updated on August 21, 2021)
 **WARNING: The previous world will not be supported. You need to start new world due to major mod list changes.**
 
 * Added [Textile Backup](https://modrinth.com/mod/textile_backup), allowing you to back up the world in case something goes wrong
+* Removed obsolete mod from list completely
 
 ### Version Info ###
 - Fabric Version: 0.11.6
@@ -83,7 +84,6 @@ Latest version: 1.17.1-libre-labs3_r5 (Updated on August 21, 2021)
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 * [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker)
 * [Ranger's Haven](https://www.curseforge.com/minecraft/mc-mods/rangers-haven)
-* [Reborn Core](https://www.curseforge.com/minecraft/mc-mods/reborncore)
 * [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
 * [Respawnable Pets](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
