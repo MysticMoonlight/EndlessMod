@@ -10,13 +10,11 @@ The 1.17 stable release is expected to be released on September 2021.
 Due to copyright concerns, like Half-Life 2 Modpack, the mod will be listed instead. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
-Latest version: 1.17.1-libre-labs3 (Updated on August 20, 2021)
+Latest version: 1.17.1-libre-labs3_r5 (Updated on August 21, 2021)
 
 **WARNING: The previous world will not be supported. You need to start new world due to major mod list changes.**
 
-* Added [Glow Banners](https://modrinth.com/mod/glow-banners), [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds), [Extra Enchants](https://modrinth.com/mod/extra_enchants). [No Cap](https://modrinth.com/mod/nocap), [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer), [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric), [WTHIT](https://modrinth.com/mod/wthit)
-* Added optional mod: [Updated HUD](https://modrinth.com/mod/updated-hud), [Compass Ribbon](https://modrinth.com/mod/compass-ribbon), [WorldTime](https://modrinth.com/mod/worldtime)
-* Added [Modern Industrialization](https://www.curseforge.com/minecraft/mc-mods/modern-industrialization), replacing the Tech Reborn Mod
+* Added [Textile Backup](https://modrinth.com/mod/textile_backup), allowing you to back up the world in case something goes wrong
 
 ### Version Info ###
 - Fabric Version: 0.11.6
@@ -97,7 +95,7 @@ Latest version: 1.17.1-libre-labs3 (Updated on August 20, 2021)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
 * [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
-* [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
+* [Textile Backup](https://modrinth.com/mod/textile_backup)
 * [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
 * [Underground Ambient Lightning](https://modrinth.com/mod/undergroundambientlighting)
