@@ -8,7 +8,7 @@ EndlessMod Libre is being actively developed, unlike EndlessMod Edge.
 Due to copyright concerns, the modpack will not be distributed. You need to install the mods and put it on mods folder manually.
 
 ### Recent Changes ###
-Latest version: 1.17.1-libre-r1 (Updated on September 17, 2021)
+Latest version: 1.17.1-libre-r1 (Updated on September 4, 2021)
 
 **WARNING: Upgrading your existing world to 1.17.1 is not supported due to major changes to mod list. You need to stick with [1.16.5 version](https://github.com/MysticMoonlight/EndlessMod/blob/main/editions/libre-old.md) if you still want to play your old worlds.**
 
