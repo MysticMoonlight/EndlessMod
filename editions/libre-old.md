@@ -1,7 +1,7 @@
 # ⚠️ Notice: This version is now on Extended Support ⚠️ #
 As of 1.17 update of this modpack, this version will now be on Extended support until 1.18 releases.
 
-After 1.18 version is released, this mod will be marked as EOL(End-of-Life).
+After release of 1.18 version, this mod will be marked as EOL(End-of-Life) and no support will be given.
 
 No feature change will be made during extended support.
 
