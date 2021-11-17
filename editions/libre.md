@@ -162,7 +162,7 @@ These mods are optional.
 * [Simple Connected Textures](https://www.curseforge.com/minecraft/texture-packs/simple-ct)
 * [BSL Shaders](http://bitslablab.com/bslshaders/)
 
-### Problematic Mod(s)/ ###
+### Problematic Mod(s) ###
 These mods causes the bugs or awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
 
 None.
