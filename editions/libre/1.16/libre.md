@@ -1,9 +1,10 @@
-# ⚠️ Notice: This version is now on Extended Support ⚠️ #
-As of 1.17 update of this modpack, this version will now be on Extended support until 1.18 releases.
+# ⚠️ Notice: End of Support is near for EndlessMod 1.16 ⚠️ #
+1.18 version of EndlessMod is planned to release on December 15, 2021, and our team decided to give two weeks grace period after 1.18 release, before End-of-Life(EOL).
 
-After release of 1.18 version, this mod will be marked as EOL(End-of-Life) and no support will be given.
+As a result, this version will be marked as EOL on December 29, 2021.
 
-No feature change will be made during extended support.
+We recommended migrating to EndlessMod Innovation 1.18 before EOL.
+Thank you for using our modpack!
 
 # EndlessMod Libre #
 ### What is it? ###

@@ -1,3 +1,11 @@
+# ⚠️ Notice: End of Support is near for EndlessMod 1.17 ⚠️ #
+1.18 version of EndlessMod is planned to release on December 15, 2021, and our team decided to give two weeks grace period after 1.18 release, before End-of-Life(EOL).
+
+As a result, this version will be marked as EOL on December 29, 2021.
+
+We recommended migrating to EndlessMod Innovation 1.18 before EOL.
+Thank you for using our modpack!
+
 # EndlessMod Libre #
 ## What is it? ##
 EndlessMod is a Minecraft: Java Edition modpack which aims to keep the vanilla atmosphere experience with endless possibilities.

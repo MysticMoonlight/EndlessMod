@@ -1,9 +1,8 @@
-# ⚠ WARNING: THIS EDITION IS NO LONGER ACTIVELY SUPPORTED ⚠ #
-Since now most mods are being ported to Fabric instead of Forge, this edition will be no longer actively supported.
-If 1.18 Forge is released, this edition will reach EOL and no support will be provided.
+# ⚠️ Notice: End of Support for EndlessMod Edge ⚠️ #
+Since 1.18 has been released, this version is now marked as EOL and no support will be given.
 
-We recommend switching to EndlessMod Libre, which is actively maintained.
-
+We recommended migrating to EndlessMod Innovation 1.18, the better alternative of this modpack.
+Thank you for using our modpack!
 
 # EndlessMod Edge #
 ### What is it? ###
