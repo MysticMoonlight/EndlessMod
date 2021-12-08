@@ -11,7 +11,7 @@
 ### Changelog
 * Added back the following mods: DashLoader, FeritteCore, Lithium, Continuity
 * Added limitless, the replacement of several cap limit remover mods
-* Added MCG and Where-Is-My-Stuff, which allows you to store coordinates easily
+* Added MCG, which allows you to store coordinates easily
 * Added Discerning Furnace
 * Added Armor Stand Editor to keep armor stand cool - #MakeArmorStandGreatAgain
 * Added WMITAF back
