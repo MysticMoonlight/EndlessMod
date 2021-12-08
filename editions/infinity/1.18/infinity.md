@@ -40,7 +40,6 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Respawnable Pets](https://www.curseforge.com/minecraft/mc-mods/respawnable-pets)
 * [Snowy Trees](https://modrinth.com/mod/snowy-trees)
 * [Tech Reborn](https://www.curseforge.com/minecraft/mc-mods/techreborn)
-* [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced)
 * [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
 
 ### Utility Mods ###
@@ -124,6 +123,7 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
 * [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 * [More Death Messages](https://www.curseforge.com/minecraft/mc-mods/more-death-messages)
+* [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced)
 * [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
 * [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
 
