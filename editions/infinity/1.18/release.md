@@ -23,6 +23,7 @@
 * Added rainbowify as alternative selection to Blur (That means now you have to choose Blur or rainbowify mod starting from this version)
 * Removed TRansliterationLib since it is obsolete on 1.18 version
 * Removed VoxelMap since it gives you unfair advantage and reduces difficulty for finding the house, also proprietary mod
+* Removed Compass mod - It is proprietary
 
 ## em-1.18-innovation-rc1
 **Warning: Upgrading your existing world to 1.18 is not supported due to major changes to mod list.**
