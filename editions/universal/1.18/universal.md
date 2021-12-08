@@ -14,6 +14,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 ## List of mods ##
 ⚠️ - Risky mods (Still on alpha state. Use at own risk!)
 ### Core/API Mods
+* [ArchitecturyAPI](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
 * [Cloth API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-api)
 * [Cloth Config API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/cloth-config)
 * [Fabric API](https://www.modrinth.com/mod/fabric-api)
