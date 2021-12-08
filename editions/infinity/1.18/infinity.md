@@ -29,7 +29,6 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Disable Custom Worlds Advice (Fabric)](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Discerning Furnace](https://modrinth.com/mod/discerning-furnace)
 * [Expanded Storage (Fabric)](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
-* [Extra Enchants](https://modrinth.com/mod/extra_enchants)
 * [Glow Banners](https://www.modrinth.com/mod/glow-banners)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
 * [LambDynamicLights](https://www.modrinth.com/mod/lambdynamiclights)
