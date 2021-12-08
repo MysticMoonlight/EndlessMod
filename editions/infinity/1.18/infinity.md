@@ -43,12 +43,9 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 ### Utility Mods ###
 * [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
-* [Blame (Fabric)](https://modrinth.com/mod/blame-fabric)
-* [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [FallingTree](https://modrinth.com/mod/fallingtree)
 * [Horse Stats Vanilla (Fabric)](https://modrinth.com/mod/horsestatsvanilla)
-* [Image2Map](https://modrinth.com/mod/image2map)
 * [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
@@ -56,11 +53,8 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [MCG](https://www.modrinth.com/mod/mcg)
 * [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 * [Patchouli (Fabric)](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
-* [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 * [Textile Backup](https://modrinth.com/mod/textile_backup)
-* [VoxelMap (Fabric)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
-* [Where-Is-My-Stuff](https://www.modrinth.com/mod/where-items-owo)
 * [WMITAF](https://modrinth.com/mod/wmitaf)
 * [WTHIT](https://modrinth.com/mod/wthit)
 * [You're in Grave Danger](https://www.modrinth.com/mod/yigd)
@@ -92,12 +86,9 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Iris Shaders](https://irisshaders.net/)
 * [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 * [Continuity](https://www.modrinth.com/mod/continuity)
-* [Extra Sounds](https://modrinth.com/mod/extrasounds)
 * [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes)
-* [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
-* [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 * [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
@@ -129,6 +120,7 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 ### Utility Mods ###
 * [Blame (Fabric)](https://modrinth.com/mod/blame-fabric)
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
+* [Image2Map](https://modrinth.com/mod/image2map)
 * [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
 
 ### Optimization Mods ###
@@ -136,7 +128,6 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 * [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 
 ### UI Mods ###
-* [Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 * [Compact Status Effects](https://www.curseforge.com/minecraft/mc-mods/compact-status-effects)
 * [Damage Tint](https://modrinth.com/mod/damage-tint)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
