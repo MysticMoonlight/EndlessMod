@@ -25,13 +25,17 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 ### Content/Improvement Mods ###
 * [Additional Additions](https://www.modrinth.com/mod/addadd)
 * [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)
+* [Crowmap](https://modrinth.com/mod/crowmap)
 * [Disable Custom Worlds Advice (Fabric)](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
+* [Discerning Furnace](https://modrinth.com/mod/discerning-furnace)
 * [Expanded Storage (Fabric)](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
 * [Extra Enchants](https://modrinth.com/mod/extra_enchants)
 * [Fabric Seasons](https://www.modrinth.com/mod/fabric-seasons)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
 * [Glow Banners](https://github.com/UltrusBot/glow-banners/releases/tag/v1.1.1) (Changed to GitHub release link temporarily due to new version only published on Github)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
+* [LambDynamicLights](https://www.modrinth.com/mod/lambdynamiclights)
+* [Motschen's Puddles](https://modrinth.com/mod/puddles)
 * [NoExpensive](https://www.curseforge.com/minecraft/mc-mods/noexpensive)
 * [Quick Shulker](https://www.curseforge.com/minecraft/mc-mods/quick-shulker)
 * [Repurposed Structures (Fabric)](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric)
@@ -42,29 +46,36 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
 
 ### Utility Mods ###
+* [Armor Stand Editor](https://modrinth.com/mod/armorstandeditor)
 * [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3)
 * [Blame (Fabric)](https://modrinth.com/mod/blame-fabric)
 * [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [FallingTree](https://modrinth.com/mod/fallingtree)
 * [Horse Stats Vanilla (Fabric)](https://modrinth.com/mod/horsestatsvanilla)
-* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+* [Image2Map](https://modrinth.com/mod/image2map)
 * [Inventory Sorting](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting)
+* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+* [limitless](https://www.modrinth.com/mod/limitless)
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
+* [Map Saver](https://modrinth.com/mod/map-saver)
+* [MCG](https://www.modrinth.com/mod/mcg)
 * [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie)
 * [Patchouli (Fabric)](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric)
 * [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
 * [Roughly Enough Items Fabric](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items)
 * [Textile Backup](https://modrinth.com/mod/textile_backup)
 * [VoxelMap (Fabric)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
+* [Where-Is-My-Stuff](https://www.modrinth.com/mod/where-items-owo)
+* [WMITAF](https://modrinth.com/mod/wmitaf)
 * [WTHIT](https://modrinth.com/mod/wthit)
 * [You're in Grave Danger](https://www.modrinth.com/mod/yigd)
 
-
 ### Optimization Mods ###
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
+* [DashLoader](https://www.modrinth.com/mod/dashloader)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
-* [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
+* [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Indium](https://modrinth.com/mod/indium)
 * [Krypton](https://modrinth.com/mod/krypton)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
@@ -73,7 +84,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Starlight](https://modrinth.com/mod/starlight)
 
 ### UI Mods ###
-* [Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
+* [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) or [rainbowify](https://www.modrinth.com/mod/rainbowify) (Please choose ONLY one otherwise it will conflict each other)
 * [Compact Status Effects](https://www.curseforge.com/minecraft/mc-mods/compact-status-effects)
 * [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
 * [Damage Tint](https://modrinth.com/mod/damage-tint)
@@ -103,16 +114,10 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Simple Connected Textures](https://www.curseforge.com/minecraft/texture-packs/simple-ct)
 * [BSL Shaders](http://bitslablab.com/bslshaders/)
 
-### Problematic Mod(s) ###
-These mods causes the bugs or awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
-
-None.
-
 ### Incompatiable Mods ###
 These mods are incompatible at the moment, but they are working hard to get 1.18 support.
 
 ### Core/API Mods ###
-* [TRansliterationLib](https://www.curseforge.com/minecraft/mc-mods/transliterationlib)
 * [YUNG's API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
 
 ### Content/Improvement Mods ###
@@ -129,28 +134,27 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 * [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
 
 ### Optimization Mods ###
-* [DashLoader](https://www.modrinth.com/mod/dashloader)
 * [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
 * [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
-* [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [Lithium](https://modrinth.com/mod/lithium)
 
 ### UI Mods ###
 * [Blur (Fabric)](https://modrinth.com/mod/blur-fabric)
 * [Compact Status Effects](https://www.curseforge.com/minecraft/mc-mods/compact-status-effects)
 * [Damage Tint](https://modrinth.com/mod/damage-tint)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
-* [VoxelMap (Fabric)](https://www.curseforge.com/minecraft/mc-mods/voxelmap)
 * [WorldTime](https://modrinth.com/mod/worldtime)
 
 ### Sound/Visual Mods ###
-* [Continuity](https://www.modrinth.com/mod/continuity)
 * [Extra Sounds](https://modrinth.com/mod/extrasounds)
 * [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds)
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
-* [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
 * [Underground Ambient Lightning](https://modrinth.com/mod/undergroundambientlighting)
+
+### Problematic Mod(s) ###
+These mods causes the bugs or awaiting the issue to be fixed. We don't recommend using following mods until the issue is completely fixed.
+
+None.
 
 # Note
 - On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
