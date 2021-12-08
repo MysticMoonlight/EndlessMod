@@ -3,16 +3,13 @@
     All-rounder modpack which does works in any situations!
 </p>
 
-EndlessMod Universal is the universal Minecraft: Java Edition Fabric modpack which is aimed for both Singleplayer and Multiplayer. Any gameplay changing features are not included for pure vanilla gameplay, while improving the experience. You may also add additional mods or resource pack to fully customize the game.
-
-## Caution when using this modpack ##
-We recommend using only mods or resource packs which is safe to use on server. Avoid using mods or resource packs which gains advantage than other players. We are not responsible for any bans from the server for using mods or resource packs which gives you unfair advantages.
+EndlessMod Universal (Previously known as **Satallite**) is the Fabric based modpack. It aims to keep the vanilla gameplay while improving the gameplay and optimizing the performance of the game, and to support both Singleplayer and Multiplayer without affecting content changes to the world.
 
 ## Copyright Notice ##
 Due to modpack usage copyright difference for each mods, we decided not to include any mods. You must install [Fabric](https://fabricmc.net/use) and put jar file into mods folder manually.
 
 ## Release Notes ##
-Release notes can be found here.
+Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/blob/main/editions/universal/1.18/release.md).
 
 ## List of mods ##
 ⚠️ - Risky mods (Still on alpha/beta state. Use at own risk!)

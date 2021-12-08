@@ -1,15 +1,15 @@
-<h2 align="center">EndlessMod Universal</h2>
+<h2 align="center">EndlessMod Infinity</h2>
 <p align="center">
-    All-rounder modpack which does works in any situations!
+    Infinite possiblities!
 </p>
 
-EndlessMod Universal is the which aims to keep the vanilla atmosphere experience with endless possibilities. Any gameplay changing features are not included for pure vanilla gameplay, while improving the experience. You may also add additional mods or resource pack to fully customize the game.
+EndlessMod Infinity is the modpack focused on adding more content aimed for unlimited possibilites, while keeping the vanilla gameplay. Expanding the technology or magic... Everything is up to you!
 
 ## Copyright Notice ##
 Due to modpack usage copyright difference for each mods, we decided not to include any mods. You must install [Fabric](https://fabricmc.net/use) and put jar file into mods folder manually.
 
 ## Release Notes ##
-Release notes can be found here.
+Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/blob/main/editions/infinity/1.18/release.md).
 
 ## List of Mods ##
 ### Core/API Mods ###
@@ -152,7 +152,10 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 * [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
 * [Underground Ambient Lightning](https://modrinth.com/mod/undergroundambientlighting)
 
-### How to keep mod up to date ###
+# Note
+- On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
+
+## How to keep mod up to date ###
 As of 1.17.1-libre-labs2 update, auto updater named Fabrilous Updater has been added. This will allow you to keep the mod up to date, which usually includes bug fixes and new features.
 
 Use following command to manage updates. Please note that Fabrilous Updater does not check for update automatically!
