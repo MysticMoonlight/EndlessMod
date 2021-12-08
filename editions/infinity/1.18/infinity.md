@@ -82,6 +82,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Iris Shaders](https://irisshaders.net/)
 * [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 * [Continuity](https://www.modrinth.com/mod/continuity)
+* [Drip Sounds](https://www.modrinth.com/mod/dripsounds-fabric)
 * [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
