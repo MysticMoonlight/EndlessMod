@@ -68,18 +68,14 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Krypton](https://modrinth.com/mod/krypton)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
-* [Smooth Boot (Fabric)](https://modrinth.com/mod/smoothboot-fabric)
+* [Smooth Boot (Fabric)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
 * [Starlight](https://modrinth.com/mod/starlight)
 
 ### UI Mods ###
 * [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) or [rainbowify](https://www.modrinth.com/mod/rainbowify) (Please choose ONLY one otherwise it will conflict each other)
-* [Compact Status Effects](https://www.curseforge.com/minecraft/mc-mods/compact-status-effects)
-* [Compass Ribbon](https://modrinth.com/mod/compass-ribbon)
-* [Damage Tint](https://modrinth.com/mod/damage-tint)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
-* [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
 * [WorldTime](https://modrinth.com/mod/worldtime)
 
 ### Sound/Visual Mods ###
@@ -91,8 +87,6 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 * [Sound Physics Fabric](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
-* [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
-* [Underground Ambient Lightning](https://modrinth.com/mod/undergroundambientlighting)
 
 ### Recommended Resource/Shader Pack ###
 * [New Default+](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus)
@@ -130,8 +124,7 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 ### UI Mods ###
 * [Compact Status Effects](https://www.curseforge.com/minecraft/mc-mods/compact-status-effects)
 * [Damage Tint](https://modrinth.com/mod/damage-tint)
-* ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
-* [WorldTime](https://modrinth.com/mod/worldtime)
+* [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
 
 ### Sound/Visual Mods ###
 * [Extra Sounds](https://modrinth.com/mod/extrasounds)
