@@ -3,7 +3,7 @@
 # Stable
 
 # Release Candidate (RC)
-## em-universal-18-rc2
+## em-infinity-18-rc2
 **Warning: Upgrading your existing world to 1.18 is not supported due to major changes to mod list.**
 
 **Warning: This is Release Candidate version. It might be unstable and may crash the game. In a worst case, the world might corrupt. Please back up your world before trying this version(If you are playing with 1.17 version). We are not responsible for ignoring this warning!**
