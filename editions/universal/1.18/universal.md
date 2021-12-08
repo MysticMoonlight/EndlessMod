@@ -26,6 +26,8 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Krypton](https://www.modrinth.com/mod/krypton)
 * [LazyDFU](https://www.modrinth.com/mod/lazydfu)
 * [Lithium](https://www.modrinth.com/mod/lithium)
+* [Sodium](https://www.modrinth.com/mod/sodium)
+* [Sodium Extra](https://www.modrinth.com/mod/sodium-extra)
 
 ### Visual Mods
 * [Continuity](https://www.modrinth.com/mod/continuity)
@@ -69,4 +71,5 @@ These mods does not support 1.18 yet.
 * [Status Effect Timer](https://www.modrinth.com/mod/statuseffecttimer)
 
 # Note
-On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
+* On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
+* If you see that dependency is missing, please check if you put forge version into mods folder! If you did, find the Fabric version and replace them. Some mods have Forge and Fabric version mixed.
