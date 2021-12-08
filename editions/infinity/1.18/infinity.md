@@ -76,6 +76,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
+* [Vistas](https://www.modrinth.com/mod/vistas)
 * [WorldTime](https://modrinth.com/mod/worldtime)
 
 ### Sound/Visual Mods ###
