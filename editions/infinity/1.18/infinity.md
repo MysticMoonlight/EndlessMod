@@ -30,7 +30,6 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Discerning Furnace](https://modrinth.com/mod/discerning-furnace)
 * [Expanded Storage (Fabric)](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
 * [Extra Enchants](https://modrinth.com/mod/extra_enchants)
-* [Fabric Seasons](https://www.modrinth.com/mod/fabric-seasons)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
 * [Glow Banners](https://www.modrinth.com/mod/glow-banners)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
@@ -123,6 +122,7 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 ### Content/Improvement Mods ###
 * [Better Than Mending (Fabric)](https://www.curseforge.com/minecraft/mc-mods/better-than-mending)
 * [Extra Enchants](https://modrinth.com/mod/extra_enchants)
+* [Fabric Seasons](https://www.modrinth.com/mod/fabric-seasons)
 * [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 * [More Death Messages](https://www.curseforge.com/minecraft/mc-mods/more-death-messages)
 * [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
