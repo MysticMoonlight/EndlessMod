@@ -12,6 +12,7 @@ Due to modpack usage copyright difference for each mods, we decided not to inclu
 Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/blob/main/editions/infinity/1.18/release.md).
 
 ## List of Mods ##
+⚠️ - Risky mods (Still on alpha state. Use at own risk!)
 ### Core/API Mods ###
 * [Amecs (Fabric)](https://www.curseforge.com/minecraft/mc-mods/amecs)
 * [ArchitecturyAPI](https://www.curseforge.com/minecraft/mc-mods/architectury-fabric)
@@ -20,6 +21,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin)
 * [GeckoLib](https://www.curseforge.com/minecraft/mc-mods/geckolib)
+* [NinjaPhenix's Container Library](https://www.curseforge.com/minecraft/mc-mods/ninjaphenixs-container-library)
 * [RebornCore](https://www.curseforge.com/minecraft/mc-mods/reborncore)
 
 ### Content/Improvement Mods ###
@@ -64,12 +66,14 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [DashLoader](https://www.modrinth.com/mod/dashloader)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [Indium](https://modrinth.com/mod/indium)
+* [Indium](https://modrinth.com/mod/indium) ⚠️
 * [Krypton](https://modrinth.com/mod/krypton)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [Smooth Boot (Fabric)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
 * [Starlight](https://modrinth.com/mod/starlight)
+* [Sodium](https://www.modrinth.com/mod/sodium)
+* [Sodium Extra](https://www.modrinth.com/mod/sodium-extra)
 
 ### UI Mods ###
 * [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) or [rainbowify](https://www.modrinth.com/mod/rainbowify) (Please choose ONLY one otherwise it will conflict each other)
@@ -141,7 +145,8 @@ These mods causes the bugs or awaiting the issue to be fixed. We don't recommend
 None.
 
 # Note
-- On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
+* On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
+* If you see that dependency is missing, please check if you put forge version into mods folder! If you did, find the Fabric version and replace them. Some mods have Forge and Fabric version mixed.
 
 ## How to keep mod up to date ###
 As of 1.17.1-libre-labs2 update, auto updater named Fabrilous Updater has been added. This will allow you to keep the mod up to date, which usually includes bug fixes and new features.
