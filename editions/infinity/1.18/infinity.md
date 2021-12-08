@@ -32,7 +32,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Extra Enchants](https://modrinth.com/mod/extra_enchants)
 * [Fabric Seasons](https://www.modrinth.com/mod/fabric-seasons)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
-* [Glow Banners](https://github.com/UltrusBot/glow-banners/releases/tag/v1.1.1) (Changed to GitHub release link temporarily due to new version only published on Github)
+* [Glow Banners](https://www.modrinth.com/mod/glow-banners)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
 * [LambDynamicLights](https://www.modrinth.com/mod/lambdynamiclights)
 * [Motschen's Puddles](https://modrinth.com/mod/puddles)
