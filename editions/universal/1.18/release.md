@@ -7,8 +7,9 @@
 **Warning: This is Release Candidate version. It might be unstable and may crash the game. In a worst case, the world might corrupt. Please back up your world before trying this version(If you are playing with 1.17 version). We are not responsible for ignoring this warning!**
 
 ### Changelog
-- Added back the following mods: DashLoader, FeritteCore, Lithium, Continuity, Blur (Fabric)
-- Added Pling (Backported from Universal)
+* Added back the following mods: DashLoader, FeritteCore, Lithium, Continuity, Blur (Fabric)
+* Added Sound Physics (Backported from Infinity)
+* Added Pling (Backported from Infinity)
 * Added rainbowify as alternative selection to Blur (That means now you have to choose Blur or rainbowify mod starting from this version)
 
 
