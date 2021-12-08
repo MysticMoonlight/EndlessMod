@@ -37,6 +37,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [BetterF3](https://www.modrinth.com/mod/betterf3)
 * [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) or [rainbowify](https://www.modrinth.com/mod/rainbowify) (Please choose ONLY one otherwise it will conflict each other)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
+* [Disable Custom Worlds Advice (Fabric)](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Drip Sounds (Fabric)](https://www.modrinth.com/mod/dripsounds-fabric)
 * [Fabrishot](https://www.modrinth.com/mod/fabrishot)
 * [Horse Stats Vanilla](https://www.modrinth.com/mod/horsestatsvanilla)
