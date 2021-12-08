@@ -44,6 +44,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 * [Mod Menu](https://www.modrinth.com/mod/modmenu)
 * [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
+* [Smooth Boot (Fabric)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
 * [Sound Physics (Fabric)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
 * [Status Effect Timer](https://www.modrinth.com/mod/statuseffecttimer)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
