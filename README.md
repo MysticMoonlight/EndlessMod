@@ -20,7 +20,7 @@ Our update mostly follows the major update of Minecraft: Java Edition, and new v
 
 ## EndlessMod Infinity
 Version | Codename | Release date | End of Main Support | End of Extended Support | MC Version
------------- | ------------- | ------------- | ------------- | -------------
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
 18 (LTS) | [The Phantom of the Dark](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera) | Dec 15, 2021 | TBD | TBD | 1.18
 
 ## EndlessMod Universal
