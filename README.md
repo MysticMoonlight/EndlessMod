@@ -30,7 +30,7 @@ Version | Codename | Release date | End of Main Support | End of Extended Suppor
 Version | Codename | Release date | End of Main Support | MC Version
 ------------ | ------------- | ------------- | ------------- | -------------
 18 | [Festive Penguin](https://en.wikipedia.org/wiki/Penguin) | Dec 15, 2021 | TBD | 1.18
-19 | Gardener's Rose | 2022 TBD | TBD | TBD | 1.19 
+19 | Gardener's Rose | 2022 TBD | TBD | 1.19 
 
 ## Discontinued Editions
 ### EndlessMod Edge
