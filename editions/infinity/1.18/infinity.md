@@ -31,8 +31,10 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Disable Custom Worlds Advice (Fabric)](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
 * [Discerning Furnace](https://modrinth.com/mod/discerning-furnace)
 * [Expanded Storage (Fabric)](https://www.curseforge.com/minecraft/mc-mods/expanded-storage-fabric)
+* [Fabric Seasons](https://www.modrinth.com/mod/fabric-seasons)
 * [Glow Banners](https://www.modrinth.com/mod/glow-banners)
 * [Happiness (is a) Warm Gun](https://www.curseforge.com/minecraft/mc-mods/happiness-is-a-warm-gun)
+* [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 * [LambDynamicLights](https://www.modrinth.com/mod/lambdynamiclights)
 * [limitless](https://www.modrinth.com/mod/limitless)
 * [Motschen's Puddles](https://modrinth.com/mod/puddles)
@@ -65,6 +67,8 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps)
 * [DashLoader](https://www.modrinth.com/mod/dashloader)
 * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+* [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
+* [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Indium](https://modrinth.com/mod/indium) ⚠️
 * [Krypton](https://modrinth.com/mod/krypton)
@@ -88,6 +92,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [CameraOverhaul](https://www.curseforge.com/minecraft/mc-mods/cameraoverhaul)
 * [Continuity](https://www.modrinth.com/mod/continuity)
 * [Drip Sounds](https://www.modrinth.com/mod/dripsounds-fabric)
+* [Extra Sounds](https://modrinth.com/mod/extrasounds)
 * [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
 * [Illuminations](https://www.curseforge.com/minecraft/mc-mods/illuminations)
@@ -102,30 +107,17 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 ### Incompatiable Mods ###
 These mods are incompatible at the moment, but they are working hard to get 1.18 support.
 
-### Core/API Mods ###
-* [YUNG's API (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric)
-
 ### Content/Improvement Mods ###
 * [Better Than Mending (Fabric)](https://www.curseforge.com/minecraft/mc-mods/better-than-mending)
 * [Extra Enchants](https://modrinth.com/mod/extra_enchants)
-* [Fabric Seasons](https://www.modrinth.com/mod/fabric-seasons)
 * [Gate of Babylon](https://www.curseforge.com/minecraft/mc-mods/gate-of-babylon)
-* [Inmis](https://www.curseforge.com/minecraft/mc-mods/inmis)
 * [More Death Messages](https://www.curseforge.com/minecraft/mc-mods/more-death-messages)
 * [Vanilla Enhanced](https://modrinth.com/mod/vanillaenhanced)
 * [Winged](https://www.curseforge.com/minecraft/mc-mods/winged)
-* [YUNG's Better Mineshafts (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric)
-* [YUNG's Better Strongholds (Fabric)](https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric)
 
 ### Utility Mods ###
 * [Blame (Fabric)](https://modrinth.com/mod/blame-fabric)
-* [Fabrilous Updater](https://www.curseforge.com/minecraft/mc-mods/fabrilous-updater)
 * [Image2Map](https://modrinth.com/mod/image2map)
-* [Paxi (Fabric)](https://www.curseforge.com/minecraft/mc-mods/paxi-fabric)
-
-### Optimization Mods ###
-* [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
-* [Fast Furnace for Fabric](https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric)
 
 ### UI Mods ###
 * [Compact Status Effects](https://www.curseforge.com/minecraft/mc-mods/compact-status-effects)
@@ -133,10 +125,8 @@ These mods are incompatible at the moment, but they are working hard to get 1.18
 * [Status Effect Timer](https://modrinth.com/mod/statuseffecttimer)
 
 ### Sound/Visual Mods ###
-* [Extra Sounds](https://modrinth.com/mod/extrasounds)
 * [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds)
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
-* [True Darkness](https://www.curseforge.com/minecraft/mc-mods/true-darkness)
 * [Underground Ambient Lightning](https://modrinth.com/mod/undergroundambientlighting)
 
 ### Problematic Mod(s) ###
@@ -148,9 +138,9 @@ None.
 * On first run or mod/resource pack update, the cache will be generated so the game will freeze for several minutes. Don't panic, just wait for them to load completely. This will allow the game to load quickly on next run!
 * If you see that dependency is missing, please check if you put forge version into mods folder! If you did, find the Fabric version and replace them. Some mods have Forge and Fabric version mixed.
 
-## How to keep mod up to date ###
-As of 1.17.1-libre-labs2 update, auto updater named Fabrilous Updater has been added. This will allow you to keep the mod up to date, which usually includes bug fixes and new features.
+## How to keep mod up to date
+As of EndlessMod 18, Fabrilous Updater has been replaced with Modget due to Fabrilous Updater not being maintained.
+Use following command to manage updates. Please note that Modget does not check for update automatically!
 
-Use following command to manage updates. Please note that Fabrilous Updater does not check for update automatically!
-/fabdate update - Shows a list of mods needing updates with a clickable download link.
-/fabdate autoupdate - Automatically removes old mods and downloads new mods.
+/modget refresh - Similar to `apt update`, refreshes the manifest cache
+/modget upgrade - Check available updates for mods
