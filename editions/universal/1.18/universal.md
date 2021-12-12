@@ -22,6 +22,7 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 ### Optimization Mods
 * [DashLoader](https://www.modrinth.com/mod/dashloader)
 * [Dynamic FPS](https://www.modrinth.com/mod/dynamic-fps)
+* [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
 * [FeritteCore](https://www.modrinth.com/mod/ferrite-core)
 * [Indium](https://www.modrinth.com/mod/indium) ⚠️
 * [Krypton](https://www.modrinth.com/mod/krypton)
@@ -30,25 +31,27 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 * [Sodium](https://www.modrinth.com/mod/sodium)
 * [Sodium Extra](https://www.modrinth.com/mod/sodium-extra)
 
-### Visual Mods
+### Sound/Visual Mods
 * [Continuity](https://www.modrinth.com/mod/continuity)
+* [Drip Sounds (Fabric)](https://www.modrinth.com/mod/dripsounds-fabric)
+* [Extra Sounds](https://www.modrinth.com/mod/extrasounds)
 * [Fabric Skyboxes](https://modrinth.com/mod/fabricskyboxes)
 * [Falling Leaves](https://www.modrinth.com/mod/fallingleaves)
 * [Iris Shaders](https://www.modrinth.com/mod/iris)
+* [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
+* [Sound Physics (Fabric)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
 
-### UI/Features Mods
+### UI and Utility Mods
 * [BetterF3](https://www.modrinth.com/mod/betterf3)
 * [Blur (Fabric)](https://modrinth.com/mod/blur-fabric) or [rainbowify](https://www.modrinth.com/mod/rainbowify) (Please choose ONLY one otherwise it will conflict each other)
 * [Dark Loading Screen](https://www.curseforge.com/minecraft/mc-mods/dark-loading-screen)
 * [Disable Custom Worlds Advice (Fabric)](https://www.curseforge.com/minecraft/mc-mods/fabric-disable-custom-worlds-advice)
-* [Drip Sounds (Fabric)](https://www.modrinth.com/mod/dripsounds-fabric)
 * [Fabrishot](https://www.modrinth.com/mod/fabrishot)
 * [Horse Stats Vanilla](https://www.modrinth.com/mod/horsestatsvanilla)
+* [HUDTweaks](https://www.modrinth.com/mod/hudtweaks)
 * [Logical Zoom](https://www.curseforge.com/minecraft/mc-mods/logical-zoom)
 * [Mod Menu](https://www.modrinth.com/mod/modmenu)
-* [Pling](https://www.curseforge.com/minecraft/mc-mods/pling)
 * [Smooth Boot (Fabric)](https://www.curseforge.com/minecraft/mc-mods/smooth-boot)
-* [Sound Physics (Fabric)](https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric)
 * ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)
 * [Vistas](https://www.modrinth.com/mod/vistas)
 
@@ -59,16 +62,12 @@ Release notes can be found [here](https://github.com/MysticMoonlight/EndlessMod/
 
 ### Incompatible mods
 These mods does not support 1.18 yet.
-#### Optimization mods
-* [Enhanced Block Entities](https://www.modrinth.com/mod/ebe)
 
 #### Visual mods
-* [Extra Sounds](https://www.modrinth.com/mod/extrasounds)
 * [Fabulous Clouds](https://modrinth.com/mod/fabulousclouds)
 * [Particle Rain](https://www.curseforge.com/minecraft/mc-mods/particle-rain)
 
 #### UI/Features mods
-* [HUDTweaks](https://www.modrinth.com/mod/hudtweaks)
 * [Status Effect Timer](https://www.modrinth.com/mod/statuseffecttimer)
 
 # Note
