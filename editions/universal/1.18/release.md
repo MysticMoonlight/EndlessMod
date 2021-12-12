@@ -1,6 +1,25 @@
-<b align="center">Release Notes</b>
+# Release Notes - EndlessMod Universal 18 "Festive Penguin"
 
-# Stable
+## Stable
+### endlessmod-infinity-18 (Dec 12, 2021)
+Welcome to new release of EndlessMod Universal! Satallite mod is now merged with EndlessMod, as new edition of EndlessMod!
+
+This was originally planned to release on December 15, 2021. However there was major security flaw present on Minecraft: Java Edition, so we had to pull the release date to Dec 12, 2021 with the sacrifice of compatibility of old version.
+
+As we announced, if you are using EndlessMod Libre, please upgrade the version to this version immediately to prevent further security issues.
+
+EndlessMod 18 supports Minecraft: Java Edition 1.18/1.18.1, and Fabric Loader 0.12.9 and higher version.
+
+We hope you enjoy this release! We apologize for rushing the release, so there will have lack of contents present on 1.18 release. We will be adding some features from minor releases, if possible!
+
+Also please refrain from using unsupported mods listed below! They might cause incompatibility errors or may crash the game.
+
+### Changelog
+* Reorganized some mods which were in wrong category
+* UI/Feature mods category renamed to UI and Utility Mods
+* Renamed Visual mods category to Sound/Visual mods
+* Moved all sounds to Sound/Visual mods 
+* Moved all 1.18-ready mods to mod list
 
 # Release Candidate (RC)
 ## em-universal-18-rc2
