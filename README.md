@@ -24,13 +24,13 @@ Our update mostly follows the major update of Minecraft: Java Edition, and new v
 Version | Codename | Release date | End of Main Support | End of Extended Support | MC Version
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 18 (LTS) | [The Phantom of the Dark](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera) | Dec 15, 2021 | TBD | TBD | 1.18
-19 | The Legend of Lorelei | 2022 TBD | TBD | TBD | 1.19 
+19 | Poison | 2022 TBD | TBD | TBD | 1.19 
 
 ### EndlessMod Universal
 Version | Codename | Release date | End of Main Support | MC Version
 ------------ | ------------- | ------------- | ------------- | -------------
 18 | [Festive Penguin](https://en.wikipedia.org/wiki/Penguin) | Dec 15, 2021 | TBD | 1.18
-19 | Gardener's Rose | 2022 TBD | TBD | 1.19 
+19 | Wildlife | 2022 TBD | TBD | 1.19 
 
 ## Discontinued Editions
 ### EndlessMod Edge
