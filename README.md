@@ -1,11 +1,11 @@
-# Warning! Security Flaw
-On December 10 2021, PaperMC team recently found exploit related to log4j, the Java-based logging utility, and this is severe issue.
+# Attention! Security Flaw
+Hello everyone, there is currently ongoing exploit related to Log4j, the Java-based logging utility.
 
-**If you are reading this and playing Minecraft with old launcher version, we advise you to close ANY minecraft instance and restart the launcher to apply the fix.**
+**If you are reading this and playing Minecraft with old launcher version, we advise you to close ANY minecraft instance and restart the Minecraft Launcher to apply the latest patches.**
 
-**Additionally if you are using our modpack, please upgrade your Fabric Loader to 0.12.9 or higher.**
+**Additionally if you are using our modpack, please upgrade your Fabric Loader to 0.12.12 or higher.**
 
-As of this announcement, we are ending support for any version below 1.18 from now on. Please use 1.18 version to prevent any further security issues.
+Stay safe!
 
 # EndlessMod
 EndlessMod is the Minecraft: Java Edition Fabric modpack which aims to retain vanilla atmosphere with endless possibility.
@@ -18,19 +18,19 @@ We have two available editions to choose, **Infinity** and **Universal**.
 * [**Universal**](https://github.com/MysticMoonlight/EndlessMod/blob/main/editions/universal/1.18/universal.md)(Previously known as Satallite) is the Fabric based modpack. It aims to keep the vanilla gameplay while improving and optimizing the game, and to support both Singleplayer and Multiplayer without affecting content changes to the world.
 
 # Release Schedule
-Our update mostly follows the major update of Minecraft: Java Edition, and new version releases after two week since new major update release of Minecraft.
+Our update mostly follows the major update of Minecraft: Java Edition, and new version releases after few weeks after new major update of Minecraft become available.
 
 ### EndlessMod Infinity
 Version | Codename | Release date | End of Main Support | End of Extended Support | MC Version
 ------------ | ------------- | ------------- | ------------- | ------------- | -------------
 18 (LTS) | [The Phantom of the Dark](https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera) | Dec 15, 2021 | TBD | TBD | 1.18
-19 | Poison | 2022 TBD | TBD | TBD | 1.19 
+19 | Mangrove | 2022 TBD | TBD | TBD | 1.19 
 
 ### EndlessMod Universal
 Version | Codename | Release date | End of Main Support | MC Version
 ------------ | ------------- | ------------- | ------------- | -------------
 18 | [Festive Penguin](https://en.wikipedia.org/wiki/Penguin) | Dec 15, 2021 | TBD | 1.18
-19 | Wildlife | 2022 TBD | TBD | 1.19 
+19 | Ancient | 2022 TBD | TBD | 1.19 
 
 ## Discontinued Editions
 ### EndlessMod Edge
