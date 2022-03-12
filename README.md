@@ -1,11 +1,9 @@
-# Attention! Security Flaw
-Hello everyone, there is currently ongoing exploit related to Log4j, the Java-based logging utility.
+# Announcement: This project is no longer maintained
+Hello everyone,
 
-**If you are reading this and playing Minecraft with old launcher version, we advise you to close ANY minecraft instance and restart the Minecraft Launcher to apply the latest patches.**
+We are sad to announce that this project is no longer in development, due to lack of time to maintain, loss of interest in Minecraft, and lack of content mods on Fabric mod loader.
 
-**Additionally if you are using our modpack, please upgrade your Fabric Loader to 0.12.12 or higher.**
-
-Stay safe!
+Thank you for using using this project.
 
 # EndlessMod
 EndlessMod is the Minecraft: Java Edition Fabric modpack which aims to retain vanilla atmosphere with endless possibility.
